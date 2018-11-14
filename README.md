@@ -34,12 +34,12 @@ For some simple ones, you can basically do this
 Another basic example
 * Capitec ATM locations
 * Going through a list of ATMS and scraping data
-* [capitec ATMS](/capitec_atms)
+* [capitec ATMS](https://github.com/adieyal/capitec_atms)
 
 ## Kwazulu Natal Law Society
 Scraping becomes more difficult if you are looking at multiple pages. So you have a list of pages and details within that list
 * This example goes through pages
-* [Law Society](/lawsoc)
+* [Law Society](https://github.com/adieyal/lawsoc)
 
 
 # Morph IO
