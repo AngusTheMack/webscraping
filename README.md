@@ -1,16 +1,30 @@
 # Web Scraping
 * Talk by [Adi Eyal](https://github.com/adieyal)
+* He is a data scientist for `code4sa` and has done a lot of public work with scraping.
+
+> You have a question, you can use scraping to get the answer
 # Technical
 Tips
 * Captcha
+    * Can stop your scraper, but if its badly setup - not entirely
 * VPN
+    * If you are scraping a website, and you break it
+    * It could technically be a Denial of Service (DOS) attack
+    * Best to be safe
 * Slow Scraping
+    * If you scrape too fast you can kill the site
 * Crawling
+    * Downloading all the data
 * Chrome / Headless
 * PDF
 * Mobile version
+    * Can sometimes be better to scrape
 * Search
+    * An empty search box may result in all the possible queries
 * Legalities
+    * Check their terms of use on the website
+    * Government sites can be rather dangerous to scrape, especially if you DOS them by them
+    * If you scrape a site on AWS, it might increase their bill for increased usage - which they could claim back for you
 * ID Numbers
 ## Simple
 For some simple ones, you can basically do this
